@@ -23,7 +23,7 @@ applicable agreement for further details.
 	(input)
 	(rect -176 424 -8 440)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "clock" (rect 5 0 31 12)(font "Arial" ))
+	(text "clock" (rect 5 0 30 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -39,7 +39,7 @@ applicable agreement for further details.
 	(input)
 	(rect -184 480 -16 496)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "set1" (rect 5 0 27 12)(font "Arial" ))
+	(text "set1" (rect 5 0 26 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -55,7 +55,7 @@ applicable agreement for further details.
 	(input)
 	(rect 400 608 416 776)
 	(text "INPUT" (rect 0 15 10 43)(font "Arial" (font_size 6))(vertical))
-	(text "set2" (rect 0 141 12 163)(font "Arial" )(vertical))
+	(text "set2" (rect 0 141 12 162)(font "Arial" )(vertical))
 	(pt 8 0)
 	(drawing
 		(line (pt 12 84)(pt 12 59))
@@ -70,9 +70,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 744 640 760 808)
+	(rect 768 664 784 832)
 	(text "INPUT" (rect 0 15 10 43)(font "Arial" (font_size 6))(vertical))
-	(text "set3" (rect 0 141 12 163)(font "Arial" )(vertical))
+	(text "set3" (rect 0 141 12 162)(font "Arial" )(vertical))
 	(pt 8 0)
 	(drawing
 		(line (pt 12 84)(pt 12 59))
@@ -87,9 +87,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 1152 624 1168 792)
+	(rect 1144 704 1160 872)
 	(text "INPUT" (rect 0 15 10 43)(font "Arial" (font_size 6))(vertical))
-	(text "set4" (rect 0 141 12 163)(font "Arial" )(vertical))
+	(text "set4" (rect 0 141 12 162)(font "Arial" )(vertical))
 	(pt 8 0)
 	(drawing
 		(line (pt 12 84)(pt 12 59))
@@ -104,9 +104,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 1512 544 1528 712)
+	(rect 1512 736 1528 904)
 	(text "INPUT" (rect 0 15 10 43)(font "Arial" (font_size 6))(vertical))
-	(text "set5" (rect 0 141 12 163)(font "Arial" )(vertical))
+	(text "set5" (rect 0 141 12 162)(font "Arial" )(vertical))
 	(pt 8 0)
 	(drawing
 		(line (pt 12 84)(pt 12 59))
@@ -121,9 +121,9 @@ applicable agreement for further details.
 )
 (pin
 	(input)
-	(rect 1872 536 1888 704)
+	(rect 1880 800 1896 968)
 	(text "INPUT" (rect 0 15 10 43)(font "Arial" (font_size 6))(vertical))
-	(text "set6" (rect 0 141 12 163)(font "Arial" )(vertical))
+	(text "set6" (rect 0 141 12 162)(font "Arial" )(vertical))
 	(pt 8 0)
 	(drawing
 		(line (pt 12 84)(pt 12 59))
@@ -140,7 +140,7 @@ applicable agreement for further details.
 	(input)
 	(rect 672 1024 840 1040)
 	(text "INPUT" (rect 15 6 43 16)(font "Arial" (font_size 6)))
-	(text "clear" (rect 139 4 163 16)(font "Arial" ))
+	(text "clear" (rect 139 4 162 16)(font "Arial" ))
 	(pt 0 8)
 	(drawing
 		(line (pt 84 4)(pt 59 4))
@@ -174,7 +174,7 @@ applicable agreement for further details.
 	(output)
 	(rect 360 168 376 344)
 	(text "OUTPUT" (rect 0 137 10 175)(font "Arial" (font_size 6))(vertical))
-	(text "saida1" (rect 0 5 12 37)(font "Arial" )(vertical))
+	(text "saida1" (rect 0 5 12 36)(font "Arial" )(vertical))
 	(pt 8 176)
 	(drawing
 		(line (pt 8 176)(pt 8 124))
@@ -191,7 +191,7 @@ applicable agreement for further details.
 	(output)
 	(rect 760 128 776 304)
 	(text "OUTPUT" (rect 0 137 10 175)(font "Arial" (font_size 6))(vertical))
-	(text "saida2" (rect 0 5 12 37)(font "Arial" )(vertical))
+	(text "saida2" (rect 0 5 12 36)(font "Arial" )(vertical))
 	(pt 8 176)
 	(drawing
 		(line (pt 8 176)(pt 8 124))
@@ -208,7 +208,7 @@ applicable agreement for further details.
 	(output)
 	(rect 1048 88 1064 264)
 	(text "OUTPUT" (rect 0 137 10 175)(font "Arial" (font_size 6))(vertical))
-	(text "saida3" (rect 0 5 12 37)(font "Arial" )(vertical))
+	(text "saida3" (rect 0 5 12 36)(font "Arial" )(vertical))
 	(pt 8 176)
 	(drawing
 		(line (pt 8 176)(pt 8 124))
@@ -225,7 +225,7 @@ applicable agreement for further details.
 	(output)
 	(rect 1368 72 1384 248)
 	(text "OUTPUT" (rect 0 137 10 175)(font "Arial" (font_size 6))(vertical))
-	(text "saida4" (rect 0 5 12 37)(font "Arial" )(vertical))
+	(text "saida4" (rect 0 5 12 36)(font "Arial" )(vertical))
 	(pt 8 176)
 	(drawing
 		(line (pt 8 176)(pt 8 124))
@@ -240,9 +240,9 @@ applicable agreement for further details.
 )
 (pin
 	(output)
-	(rect 1736 -24 1752 152)
+	(rect 1744 8 1760 184)
 	(text "OUTPUT" (rect 0 137 10 175)(font "Arial" (font_size 6))(vertical))
-	(text "saida5" (rect 0 5 12 37)(font "Arial" )(vertical))
+	(text "saida5" (rect 0 5 12 36)(font "Arial" )(vertical))
 	(pt 8 176)
 	(drawing
 		(line (pt 8 176)(pt 8 124))
@@ -259,7 +259,7 @@ applicable agreement for further details.
 	(output)
 	(rect 2144 -16 2160 160)
 	(text "OUTPUT" (rect 0 137 10 175)(font "Arial" (font_size 6))(vertical))
-	(text "saida6" (rect 0 5 12 37)(font "Arial" )(vertical))
+	(text "saida6" (rect 0 5 12 36)(font "Arial" )(vertical))
 	(pt 8 176)
 	(drawing
 		(line (pt 8 176)(pt 8 124))
@@ -1138,14 +1138,6 @@ applicable agreement for further details.
 	(pt 792 632)
 )
 (connector
-	(pt 776 632)
-	(pt 776 640)
-)
-(connector
-	(pt 776 640)
-	(pt 752 640)
-)
-(connector
 	(pt 1376 248)
 	(pt 1376 312)
 )
@@ -1178,18 +1170,6 @@ applicable agreement for further details.
 	(pt 1184 832)
 )
 (connector
-	(pt 1160 560)
-	(pt 1160 624)
-)
-(connector
-	(pt 1168 560)
-	(pt 1160 560)
-)
-(connector
-	(pt 1744 216)
-	(pt 1744 152)
-)
-(connector
 	(pt 1776 216)
 	(pt 1784 216)
 )
@@ -1204,14 +1184,6 @@ applicable agreement for further details.
 (connector
 	(pt 1552 832)
 	(pt 1552 472)
-)
-(connector
-	(pt 1536 472)
-	(pt 1520 472)
-)
-(connector
-	(pt 1520 472)
-	(pt 1520 544)
 )
 (connector
 	(pt 1456 -16)
@@ -1236,14 +1208,6 @@ applicable agreement for further details.
 (connector
 	(pt 1896 456)
 	(pt 1896 464)
-)
-(connector
-	(pt 1896 464)
-	(pt 1880 464)
-)
-(connector
-	(pt 1880 464)
-	(pt 1880 536)
 )
 (connector
 	(pt 16 832)
@@ -1376,14 +1340,6 @@ applicable agreement for further details.
 (connector
 	(pt 1544 408)
 	(pt 1544 336)
-)
-(connector
-	(pt 1744 216)
-	(pt 1760 216)
-)
-(connector
-	(pt 1760 216)
-	(pt 1776 216)
 )
 (connector
 	(pt 2152 200)
@@ -1572,6 +1528,46 @@ applicable agreement for further details.
 (connector
 	(pt 704 984)
 	(pt 704 1016)
+)
+(connector
+	(pt 776 632)
+	(pt 776 664)
+)
+(connector
+	(pt 1152 560)
+	(pt 1152 704)
+)
+(connector
+	(pt 1168 560)
+	(pt 1152 560)
+)
+(connector
+	(pt 1896 464)
+	(pt 1888 464)
+)
+(connector
+	(pt 1888 464)
+	(pt 1888 800)
+)
+(connector
+	(pt 1536 472)
+	(pt 1520 472)
+)
+(connector
+	(pt 1520 472)
+	(pt 1520 736)
+)
+(connector
+	(pt 1752 216)
+	(pt 1752 184)
+)
+(connector
+	(pt 1752 216)
+	(pt 1760 216)
+)
+(connector
+	(pt 1760 216)
+	(pt 1776 216)
 )
 (junction (pt 368 424))
 (junction (pt 440 -8))
