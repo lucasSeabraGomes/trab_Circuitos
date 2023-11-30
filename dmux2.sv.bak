@@ -1,0 +1,8 @@
+module demux2(
+input Dado,
+input Escolha,
+output [1:0] Saida
+);
+assign Saida[0]= Escolha==1'b0 ? Dado : 1'b0;
+assign Saida[1]= Escolha==1'b1 ? Dado : 1'b0;
+endmodule
