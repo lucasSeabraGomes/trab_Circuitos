@@ -21,7 +21,7 @@ applicable agreement for further details.
 (header "graphic" (version "1.4"))
 (pin
 	(input)
-	(rect 176 264 352 280)
+	(rect 96 800 272 816)
 	(text "INPUT" (rect 133 0 161 10)(font "Arial" (font_size 6)))
 	(text "clear" (rect 9 0 32 12)(font "Arial" ))
 	(pt 176 8)
@@ -167,7 +167,7 @@ applicable agreement for further details.
 	(input)
 	(rect 824 -16 992 0)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "horaRelogio1" (rect 5 0 69 12)(font "Arial" ))
+	(text "horaRelogio1" (rect 5 0 68 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -183,7 +183,7 @@ applicable agreement for further details.
 	(input)
 	(rect 832 32 1000 48)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "horaRelogio2" (rect 5 0 69 12)(font "Arial" ))
+	(text "horaRelogio2" (rect 5 0 68 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -199,7 +199,7 @@ applicable agreement for further details.
 	(input)
 	(rect 832 80 1000 96)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "horaRelogio3" (rect 5 0 69 12)(font "Arial" ))
+	(text "horaRelogio3" (rect 5 0 68 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -215,7 +215,7 @@ applicable agreement for further details.
 	(input)
 	(rect 832 128 1000 144)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "horaRelogio4" (rect 5 0 69 12)(font "Arial" ))
+	(text "horaRelogio4" (rect 5 0 68 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -231,7 +231,7 @@ applicable agreement for further details.
 	(input)
 	(rect 832 176 1000 192)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "horaRelogio5" (rect 5 0 69 12)(font "Arial" ))
+	(text "horaRelogio5" (rect 5 0 68 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -247,7 +247,7 @@ applicable agreement for further details.
 	(input)
 	(rect 832 232 1000 248)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "minRelogio1" (rect 5 0 66 12)(font "Arial" ))
+	(text "minRelogio1" (rect 5 0 65 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -263,7 +263,7 @@ applicable agreement for further details.
 	(input)
 	(rect 832 280 1000 296)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "minRelogio2" (rect 5 0 66 12)(font "Arial" ))
+	(text "minRelogio2" (rect 5 0 65 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -279,7 +279,7 @@ applicable agreement for further details.
 	(input)
 	(rect 832 328 1000 344)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "minRelogio3" (rect 5 0 66 12)(font "Arial" ))
+	(text "minRelogio3" (rect 5 0 65 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -295,7 +295,7 @@ applicable agreement for further details.
 	(input)
 	(rect 832 376 1000 392)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "minRelogio4" (rect 5 0 66 12)(font "Arial" ))
+	(text "minRelogio4" (rect 5 0 65 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -311,7 +311,7 @@ applicable agreement for further details.
 	(input)
 	(rect 832 424 1000 440)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "minRelogio5" (rect 5 0 66 12)(font "Arial" ))
+	(text "minRelogio5" (rect 5 0 65 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -327,7 +327,7 @@ applicable agreement for further details.
 	(input)
 	(rect 832 472 1000 488)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "minRelogio6" (rect 5 0 66 12)(font "Arial" ))
+	(text "minRelogio6" (rect 5 0 65 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -343,7 +343,7 @@ applicable agreement for further details.
 	(input)
 	(rect 832 520 1000 536)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "segRelogio1" (rect 5 0 66 12)(font "Arial" ))
+	(text "segRelogio1" (rect 5 0 65 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -359,7 +359,7 @@ applicable agreement for further details.
 	(input)
 	(rect 832 568 1000 584)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "segRelogio2" (rect 5 0 66 12)(font "Arial" ))
+	(text "segRelogio2" (rect 5 0 65 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -375,7 +375,7 @@ applicable agreement for further details.
 	(input)
 	(rect 832 616 1000 632)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "segRelogio3" (rect 5 0 66 12)(font "Arial" ))
+	(text "segRelogio3" (rect 5 0 65 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -391,7 +391,7 @@ applicable agreement for further details.
 	(input)
 	(rect 832 664 1000 680)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "segRelogio4" (rect 5 0 66 12)(font "Arial" ))
+	(text "segRelogio4" (rect 5 0 65 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -407,7 +407,7 @@ applicable agreement for further details.
 	(input)
 	(rect 832 712 1000 728)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "segRelogio5" (rect 5 0 66 12)(font "Arial" ))
+	(text "segRelogio5" (rect 5 0 65 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -423,7 +423,7 @@ applicable agreement for further details.
 	(input)
 	(rect 832 760 1000 776)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "segRelogio6" (rect 5 0 66 12)(font "Arial" ))
+	(text "segRelogio6" (rect 5 0 65 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -2204,10 +2204,6 @@ applicable agreement for further details.
 	(pt 472 664)
 )
 (connector
-	(pt 384 424)
-	(pt 384 664)
-)
-(connector
 	(pt 120 600)
 	(pt 472 600)
 )
@@ -2458,18 +2454,6 @@ applicable agreement for further details.
 (connector
 	(pt 240 40)
 	(pt 240 232)
-)
-(connector
-	(pt 384 272)
-	(pt 352 272)
-)
-(connector
-	(pt 384 208)
-	(pt 384 272)
-)
-(connector
-	(pt 384 272)
-	(pt 384 424)
 )
 (connector
 	(pt -184 296)
@@ -3111,8 +3095,23 @@ applicable agreement for further details.
 	(pt 1600 288)
 	(pt 1632 288)
 )
+(connector
+	(pt 384 208)
+	(pt 384 424)
+)
+(connector
+	(pt 384 808)
+	(pt 272 808)
+)
+(connector
+	(pt 384 424)
+	(pt 384 664)
+)
+(connector
+	(pt 384 664)
+	(pt 384 808)
+)
 (junction (pt -104 648))
-(junction (pt 384 272))
 (junction (pt 160 0))
 (junction (pt 136 16))
 (junction (pt 120 32))
@@ -3144,3 +3143,4 @@ applicable agreement for further details.
 (junction (pt -248 608))
 (junction (pt -184 320))
 (junction (pt -248 824))
+(junction (pt 384 664))
